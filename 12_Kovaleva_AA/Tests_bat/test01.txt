@@ -1,0 +1,15 @@
+summa
+12
+int main()
+{
+int a = 1;
+int b = 2;
+int sum = summa (a, b);
+return 0;
+}
+int summa(int one_number, int two_number)
+{
+int sum = one_number + two_number;
+return sum;
+}
+
