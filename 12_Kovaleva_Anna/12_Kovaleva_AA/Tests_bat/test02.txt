@@ -1,0 +1,5 @@
+summa
+1
+int summa(int one_number, int two_number)
+
+
